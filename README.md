@@ -86,10 +86,10 @@ Priority-Performance Analysis
 
 ---
 
-## Real-World Application: The Olde Cheese Shoppe Case
+## Real-World Application: Specialty Retail Case Study
 
 ### The Situation
-Specialty cheese retailer facing two new competitors entering the San Francisco market. Leadership wanted to understand customer satisfaction to prepare competitive response.
+A specialty retailer facing new competitors entering their market needed to understand customer satisfaction to prepare their competitive response.
 
 ### The Surface Story
 - 256 survey responses (62% response rate)
@@ -100,9 +100,9 @@ Specialty cheese retailer facing two new competitors entering the San Francisco 
 ### The Hidden Problem Revealed by Comparative Analysis
 
 **Customer Priority Rankings (Q1):**
-1. Gourmet cheeses available: **61.44%** 
-2. Imported cheeses available: **58.88%**
-3. Large selection of cheeses: **39.68%**
+1. Premium product selection: **61.44%** 
+2. Specialty imported options: **58.88%**
+3. Overall product variety: **39.68%**
 4. Staff friendliness: 12.8%
 5. Cleanliness: 8.96%
 
@@ -110,17 +110,17 @@ Specialty cheese retailer facing two new competitors entering the San Francisco 
 1. Cleanliness: **4.5/5** (8.96% importance)
 2. Staff friendliness: **4.5/5** (12.8% importance)
 3. Atmosphere: **4.5/5** (11.2% importance)
-4. Gourmet cheeses: 4.0/5 (61.44% importance) ⚠️
+4. Gourmet products: 4.0/5 (61.44% importance) ⚠️
 5. Large selection: **2.5/5** (39.68% importance) ⚠️
-6. Imported cheeses: **2.0/5** (58.88% importance) ⚠️
+6. Imported options: **2.0/5** (58.88% importance) ⚠️
 
 ### The Gap
 
 | Factor | Customer Priority | Satisfaction Score | Gap |
 |--------|------------------|-------------------|-----|
-| **Imported cheeses** | 58.88% (#1) | 2.0/5 | **-18.9 points** |
-| **Gourmet cheeses** | 61.44% (#2) | 4.0/5 | **-14.3 points** |
-| **Large selection** | 39.68% (#3) | 2.5/5 | **-12.9 points** |
+| **Imported options** | 58.88% (#1) | 2.0/5 | **-18.9 points** |
+| **Premium products** | 61.44% (#2) | 4.0/5 | **-14.3 points** |
+| **Overall variety** | 39.68% (#3) | 2.5/5 | **-12.9 points** |
 | Cleanliness | 8.96% | 4.5/5 | +21.5 points |
 | Staff friendliness | 12.8% | 4.5/5 | +20.7 points |
 
@@ -131,7 +131,7 @@ Specialty cheese retailer facing two new competitors entering the San Francisco 
 Side-by-side age cohort analysis revealed additional misalignment:
 
 **Core satisfied segment (31-50 years, 69% of customers):**
-- Gourmet cheeses: 4.5-5.0/5
+- Premium products: 4.5-5.0/5
 - Weekly specials: 4.5-5.0/5  
 - Current model works for this group
 
@@ -179,7 +179,7 @@ This visualization approach applies to any customer-facing business:
 
 Based on comparative visualization revealing the priority-performance gap:
 
-1. **Targeted Product Enhancement:** Expand imported cheese inventory 30-40% to address -18.9 satisfaction gap in highest priority factor
+1. **Targeted Product Enhancement:** Expand imported product inventory 30-40% to address -18.9 satisfaction gap in highest priority factor
 
 2. **Staff Knowledge Development:** Implement training program enabling consultation on origins, pairings, and selections (focus group insight: "owner is knowledgeable but staff cannot always answer questions")
 
