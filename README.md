@@ -3,7 +3,7 @@
 
 Single-metric dashboards hide brand problems. This analysis demonstrates how **comparative visualization** exposes the critical disconnect between what customers value most and where brands actually deliver, a pattern invisible when satisfaction metrics are analyzed separately.
 
-![Priority vs Performance Gap](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Priority_vs_Performance_Gap.png)
+![Priority vs Performance Gap](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Dashboard.png)
 
 ---
 
@@ -21,7 +21,7 @@ Most customer satisfaction reviews examine metrics separately:
 ## The Analysis: Three Visualizations, One Strategic Insight
 
 ### Visualization 1: Priorities Look Clear
-![Customer Service Priorities](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Customer_Service_Priorities.png)
+![Customer Service Priorities](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Service_Priorities.png)
 
 **What executives see:** Customers care most about gourmet selection (61%), imported options (59%), and variety (40%).
 
@@ -30,7 +30,7 @@ Most customer satisfaction reviews examine metrics separately:
 ---
 
 ### Visualization 2: Satisfaction Looks Acceptable  
-![Current Satisfaction Levels](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Current_Satisfaction_Levels.png)
+![Current Satisfaction Levels](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Satisfaction_Levels.png)
 
 **What executives see:** Several factors score 4.5/5 - atmosphere, cleanliness, staff friendliness all performing well.
 
@@ -39,7 +39,7 @@ Most customer satisfaction reviews examine metrics separately:
 ---
 
 ### Visualization 3: The Truth Emerges
-![Priority-Performance Alignment Gap](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Priority_vs_Performance_Gap.png)
+![Priority-Performance Alignment Gap](https://raw.githubusercontent.com/mslawsky/brand-alignment-analysis/main/Priority_Performance_Gap.png)
 
 **What comparative analysis reveals:**
 - **Highest customer priority (59% importance) = Lowest satisfaction score (2.0/5)**
